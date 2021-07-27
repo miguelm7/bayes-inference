@@ -1,6 +1,7 @@
 import csv
 
 '''
+## probability IDs
 row[0] #smoking
 row[1] #Yellow f
 row[2] #Anxiety
