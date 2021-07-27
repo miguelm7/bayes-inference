@@ -77,7 +77,7 @@ cont3_varstf =[0,0,0,0,0]
 cont3_varsff =[0,0,0,0,0]
 
 
-with open('lucas0_train.csv') as csv_file:
+with open('Data/lucas0_train.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
