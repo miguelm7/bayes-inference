@@ -167,6 +167,5 @@ for i in range(0,len(vector3)):
 
 
 print('Processed ' + str(line_count) + ' lines.')
-#print(v1_probs)
- 
+
 
